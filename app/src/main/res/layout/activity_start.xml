@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:gravity="center"
+android:orientation="vertical"
+android:background="@drawable/back"
+android:layout_height="match_parent"
+tools:context=".StartActivity">
+
+
+<Button
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="110dp"
+    android:id="@+id/log3"
+    android:background="@drawable/roundedcrner"
+    android:textColor="#fff"
+    android:text="Login"/>
+<Button
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/roundedcrner"
+    android:textColor="#fff"
+    android:layout_marginTop="10dp"
+    android:id="@+id/reg3"
+    android:text="Register"/>
+
+</LinearLayout>
