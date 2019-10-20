@@ -1,1 +1,1 @@
-An Online Chat Application uite similar to WhatsApp/Messenger
+An Online Chat Application quite similar to WhatsApp/Messenger
